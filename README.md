@@ -41,6 +41,8 @@ https://dataonair.or.kr/db-tech-reference/d-guide/sql/
 
 * 요약자료4 링크 : https://cafe.naver.com/sqlpd/7810
 
+* 요약자료5 링크 : https://cafe.naver.com/sqlpd/13374
+
 
 ## SQL 실습 사이트 
 https://livesql.oracle.com/apex/f?p=590:1000
