@@ -44,3 +44,28 @@ https://dataonair.or.kr/db-tech-reference/d-guide/sql/
 
 ## SQL 실습 사이트 
 https://livesql.oracle.com/apex/f?p=590:1000
+
+## 기타 자료
+
+SQLD 시험직전 출제 예상 및 총정리
+
+1편
+https://www.youtube.com/watch?v=PC3ypt_VGWI
+2편
+https://www.youtube.com/watch?v=PjCSvexo3Ow
+
+기출 문제가 잘 정리된 블로그
+
+https://yunamom.tistory.com/260#answer42
+
+SQL 기초 강의
+https://youtu.be/JE9OptIgFlY
+
+SQLD 자격증 문제 풀이 2시간 - 비전공자 맞춤형
+https://youtu.be/8uP_E6SyiuM
+
+정미나(유선배) 노랭이 문풀
+https://youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE
+
+노랭이2/3장모든문제
+https://www.youtube.com/playlist?list=PLlCujDgOz8x4JN2wHKbmlM8bFan-WaKj5
