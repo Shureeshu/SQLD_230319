@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/119299742/221460030-36c82566-c447-4adf-b5f4-c26c40619a03.png)
 
-##[ SQLD 기출문제 ]
+## [ SQLD 기출문제 ]
 < 47회 SQLD 2과목(객관식 36문제, 단답 3문제) >
 https://cafe.naver.com/sqlpd/43041
 
